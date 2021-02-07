@@ -6,6 +6,11 @@ body {
   background-attachment: fixed;
   background-size: 100%;
 }
+/*nav logo size*/
+.nav-logo{
+  width: 40px;
+  height: 40px;
+}
 /* food image style*/
 .thumbnail img {
   width: 200px;
