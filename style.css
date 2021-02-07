@@ -1,0 +1,28 @@
+/* background image and font style */
+body {
+  font-family: "Hammersmith One", sans-serif;
+  background: url("images/web-bg.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+/* food image style*/
+.thumbnail img {
+  width: 200px;
+}
+/*search result area style*/
+.search-result-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px 100px;
+  margin: 5px;
+  text-align: center;
+}
+/*food details card style */
+.details-result-area img {
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+}
